@@ -1,4 +1,4 @@
-# 
+# Inteligente Cline modelos. Com código aberto e assistente de voz — otimizado para máximo desempenho e eficiência.
 
 
 
